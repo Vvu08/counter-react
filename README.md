@@ -1,6 +1,7 @@
 # Counter App - Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App has been deployed [on the git page](https://vvu08.github.io/counter-react/).
 
 ## 🔗 Technology Stack
 * ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
